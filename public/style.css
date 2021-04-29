@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500&family=Lato&display=swap');
+
 header {
     text-align: center;
     background-color: #ef6b68;
@@ -12,9 +15,9 @@ header {
   
   h1 {
     height: 38px;
-    font-family: Work Sans, sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 32px;
-    font-weight: 200;
+    font-weight: 500;
     letter-spacing: 0.6px;
     text-align: center;
     color: #1f233e;
@@ -29,7 +32,7 @@ header {
   
   .logo {
     width: 110px;
-    height: 28px;
+    height: auto;
     margin-top: 40px;
     object-fit: contain;
   }
@@ -49,7 +52,7 @@ header {
     display: block;
     margin: auto;
     margin-top: 10px;
-    font-family: Source Sans Pro;
+    font-family: 'Lato', sans-serif;
     font-size: 14px;
     letter-spacing: 0.2px;
     text-align: center;
@@ -78,7 +81,7 @@ header {
     background-color: #1f233e;
     margin: auto;
     margin-top: 25px;
-    font-family: Source Sans Pro;
+    font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 14px;
     letter-spacing: 0.2px;
