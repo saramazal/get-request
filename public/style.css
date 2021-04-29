@@ -3,12 +3,12 @@
 
 header {
     text-align: center;
-    background-color: #ef6b68;
+    background-color: #f78670;
     padding: 10px;
   }
   
   main {
-    background-color: #ef6b68;
+    background-color: #212121;
     height: 900px;
     text-align: center;
   }
@@ -20,8 +20,8 @@ header {
     font-weight: 500;
     letter-spacing: 0.6px;
     text-align: center;
-    color: #1f233e;
-    padding-top: 40px;
+    color: #fff;
+    padding: 40px;
     margin: 0;
   }
   
@@ -47,16 +47,16 @@ header {
     width: 219px;
     height: 37px;
     border-radius: 3.2px;
-    border: solid 0.8px #1f233e;
-    background-color: inherit;
+    border: solid 0.8px #f78670;
+    background-color: #eeeeee;
     display: block;
     margin: auto;
     margin-top: 10px;
     font-family: 'Lato', sans-serif;
-    font-size: 14px;
+    font-size: 22px;
     letter-spacing: 0.2px;
     text-align: center;
-    color: #ffffff;
+    color: #767676;
   }
   
   #submit {
@@ -64,35 +64,35 @@ header {
     height: 30px;
     border-radius: 2px;
     border-color: inherit;
-    background-color: #1f233e;
+    background-color: #f78670;
     margin-top: 30px;
     font-family: Work Sans, sans-serif;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0.3px;
     text-align: center;
-    color: #ef6b68;
+    color: #fff;
     margin-right: -3px;
   }
   
   #responseField {
     min-width: 191px;
     min-height: 120px;
-    background-color: #1f233e;
+    background-color: #eeeeee;
     margin: auto;
     margin-top: 25px;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 1rem;
     letter-spacing: 0.2px;
     text-align: center;
-    color: #ffffff;
+    color: #212121;
     overflow-wrap: break-word;
     padding: 20px;
   }
   
   #submit:hover {
-    color: #ffffff;
+    background-color: #00adb5;
     cursor: pointer;
   }
   
