@@ -19,7 +19,7 @@ In this exercise I make a GET request to the Datamuse API to search for words th
 
 ## Technologies
 * VSCode
-* [Datamuse  API] (https://www.datamuse.com/api/)
+* [Datamuse API](https://www.datamuse.com/api/)
 * Git
 * GitHub
 * [Google fonts](https://fonts.google.com/?category=Sans+Serif,Display,Monospace&preview.text=Word%20Smith&preview.text_type=custom)
