@@ -19,7 +19,7 @@ In this exercise, we will create a request to set a topic and find adjectives th
 A query string contains additional information to be sent with a request. The Datamuse API allows us to retrieve more specific data with query strings attached to the request URL.
 
 ## Screenshots
-![Get-request](https://github.com/saramazal/get-request/blob/main/Get-request.png)
+![Get-request](https://github.com/saramazal/get-request/blob/main/Find%20Adjectives.png)
 
 ## Technologies
 * VSCode
