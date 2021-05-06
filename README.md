@@ -12,7 +12,11 @@ Get request
 * [Contact](#contact)
 
 ## General info
-In this exercise I make a GET request to the Datamuse API to search for words that rhyme! 
+XHR GET Requests 
+
+In this exercise, we will create a request to set a topic and find adjectives that describe the input word using query strings.
+
+A query string contains additional information to be sent with a request. The Datamuse API allows us to retrieve more specific data with query strings attached to the request URL.
 
 ## Screenshots
 ![Get-request](https://github.com/saramazal/get-request/blob/main/Get-request.png)
